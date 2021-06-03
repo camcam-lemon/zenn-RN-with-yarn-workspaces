@@ -1,0 +1,27 @@
+{
+  "name": "zenn-RN-with-yarn-workspaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camcam-lemon/zenn-RN-with-yarn-workspaces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camcam-lemon/zenn-RN-with-yarn-workspaces/issues"
+  },
+  "homepage": "https://github.com/camcam-lemon/zenn-RN-with-yarn-workspaces#readme",
+  "dependencies": {
+    "textlint": "^12.0.0",
+    "textlint-rule-preset-ja-spacing": "^2.1.3",
+    "textlint-rule-preset-ja-technical-writing": "^6.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0",
+    "zenn-cli": "^0.1.81"
+  }
+}
